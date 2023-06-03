@@ -17,7 +17,7 @@ body{
 #video-streams{
     display:grid;
     grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-    height: 90vh;
+    height: 70vh;
     width: 1400px;
     margin:0 auto;
 }
@@ -54,6 +54,6 @@ button {
 @media screen and (max-width:1400px){
     #video-streams{
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        width: 95%;
+        width: 100%;
     }
 }
