@@ -1,7 +1,7 @@
 body{
     background:#0F2027;
-    background:-webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027) ;
-    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    background:-webkit-linear-gradient(to right, #ef6210, #e89163, #ea8f60);
+    background: linear-gradient(to right, #ef6210, #e89163, #ea8f60);
 }
 
 #join-btn{
