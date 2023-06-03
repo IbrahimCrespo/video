@@ -1,6 +1,6 @@
 const APP_ID = "3d807640391b47e2b24677e50c48825c"
 const TOKEN = "007eJxTYLhWc/njJh3jDYGhGl2MfNF8Z1if3ri49khc98z0jRMnPrNWYEgySTNKNktNs0wxNTIxT020TDFJMTZPNTCwSExJM0s1fR9QndIQyMjQ3+HJysgAgSA+C0NuYmYeAwMApB0gxw=="
-const CHANNEL = "Main"
+const CHANNEL = "main"
 const client = AgoraRTC.createClient({ mode: 'rtc', codec: 'vp8' })
 
 let localTracks = []
