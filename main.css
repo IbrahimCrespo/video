@@ -33,14 +33,16 @@ body{
     width: 100%;
 }
 
-button{
-    border:none;
-    background-color: cadetblue;
-    color:#fff;
-    padding:10px 20px;
-    font-size:16px;
-    margin:2px;
+button {
+    border: none;
+    background-color: #ea8f60;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 2px;
     cursor: pointer;
+    border: 5px solid white;
+    border-radius: 7px;
 }
 
 #stream-controls{
